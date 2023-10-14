@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="F13GF1.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF full instance 10000" x="16" y="16" width="263" height="489" frameX="0" frameY="0" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10001" x="16" y="16" width="263" height="489" frameX="0" frameY="0" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10002" x="295" y="16" width="257" height="481" frameX="-6" frameY="-8" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10003" x="295" y="16" width="257" height="481" frameX="-6" frameY="-8" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10004" x="568" y="16" width="261" height="486" frameX="-2" frameY="-3" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10005" x="568" y="16" width="261" height="486" frameX="-2" frameY="-3" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10006" x="845" y="16" width="260" height="487" frameX="-3" frameY="-2" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10007" x="1121" y="16" width="261" height="487" frameX="-2" frameY="-2" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10008" x="1398" y="16" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10009" x="1673" y="16" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10010" x="16" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10011" x="16" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10012" x="291" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10013" x="291" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10014" x="566" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10015" x="566" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10016" x="291" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10017" x="291" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10018" x="841" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10019" x="841" y="521" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10020" x="1116" y="521" width="263" height="489" frameX="0" frameY="0" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10021" x="1395" y="521" width="263" height="489" frameX="0" frameY="0" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10022" x="1674" y="521" width="257" height="481" frameX="-6" frameY="-8" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10023" x="16" y="1026" width="257" height="481" frameX="-6" frameY="-8" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10024" x="289" y="1026" width="261" height="486" frameX="-2" frameY="-3" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10025" x="566" y="1026" width="261" height="486" frameX="-2" frameY="-3" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10026" x="843" y="1026" width="260" height="487" frameX="-3" frameY="-2" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10027" x="1119" y="1026" width="260" height="487" frameX="-3" frameY="-2" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10028" x="1395" y="1026" width="269" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10029" x="1680" y="1026" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10030" x="16" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10031" x="16" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10032" x="291" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10033" x="291" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10034" x="16" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10035" x="16" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10036" x="566" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10037" x="566" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+	<SubTexture name="GF full instance 10038" x="841" y="1530" width="259" height="488" frameX="-4" frameY="-1" frameWidth="273" frameHeight="489"/>
+</TextureAtlas>

@@ -1,0 +1,42 @@
+{
+	"storyName": "crystal lake",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"drowned memoirs",
+			"jason",
+			"jason",
+			[
+				120,
+				135,
+				95
+			]
+		],
+		[
+			"relentless",
+			"jason",
+			[
+				140,
+				175,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"jason",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "crystal lake"
+}

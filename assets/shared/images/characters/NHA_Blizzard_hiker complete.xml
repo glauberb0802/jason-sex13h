@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NHA_Blizzard_hiker complete.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hiker see Jason instance 10000" x="20" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10001" x="20" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10002" x="540" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10003" x="540" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10004" x="1060" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10005" x="1580" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10006" x="1580" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10007" x="2100" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10008" x="2100" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10009" x="2620" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10010" x="2620" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10011" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10012" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10013" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10014" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10015" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10016" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10017" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10018" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10019" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10020" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10021" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10022" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10023" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10024" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10025" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10026" x="20" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10027" x="3140" y="20" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10028" x="540" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10029" x="1060" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10030" x="1060" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10031" x="1580" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10032" x="1580" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10033" x="2100" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10034" x="2100" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10035" x="2100" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10036" x="2100" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10037" x="2100" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10038" x="2100" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10039" x="2620" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10040" x="2620" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10041" x="3140" y="775" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10042" x="20" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10043" x="540" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10044" x="1060" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10045" x="1580" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10046" x="2100" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10047" x="2620" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10048" x="2620" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10049" x="3140" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10050" x="3140" y="1530" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10051" x="20" y="2285" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10052" x="540" y="2285" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10053" x="1060" y="2285" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10054" x="1580" y="2285" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10055" x="2100" y="2285" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10056" x="2100" y="2285" width="500" height="735"/>
+	<SubTexture name="hiker see Jason instance 10057" x="2620" y="2285" width="500" height="735"/>
+</TextureAtlas>

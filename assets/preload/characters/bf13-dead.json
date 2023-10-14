@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "DeathStart instance"
+		},
+		{
+			"offsets": [
+				37,
+				8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Deathloop instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				9
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Deathconfirm instance ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/F13BFmachated",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

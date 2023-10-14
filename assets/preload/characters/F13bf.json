@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				128
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down bf pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				347
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up bf pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				349
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				175
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Vpose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				53
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				176
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle bf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				104
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				69,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "rightmiss"
+		},
+		{
+			"offsets": [
+				-84,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left bf pose"
+		},
+		{
+			"offsets": [
+				138,
+				188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right bf pose"
+		},
+		{
+			"offsets": [
+				-83,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "leftmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/F13bf",
+	"position": [
+		50,
+		420
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-290,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

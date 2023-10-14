@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghost.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NHA ghost0000" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0001" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0002" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0003" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0004" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0005" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0006" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0007" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA ghost0008" x="100" y="100" width="1027" height="1022"/>
+	<SubTexture name="NHA static0000" x="1227" y="100" width="1052" height="1031"/>
+	<SubTexture name="NHA static0001" x="1227" y="100" width="1052" height="1031"/>
+</TextureAtlas>

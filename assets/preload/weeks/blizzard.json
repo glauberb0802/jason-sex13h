@@ -1,0 +1,33 @@
+{
+	"storyName": "Never Hike Alone",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "jasonweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"blizzard",
+			"ghostjason",
+			"jason",
+			[
+				120,
+				135,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"jason",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Blizzard"
+}

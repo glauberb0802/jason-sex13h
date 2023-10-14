@@ -1,0 +1,33 @@
+{
+	"storyName": "crystal lake",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"jason",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"relentlessog",
+			"jason",
+			"jason",
+			[
+				120,
+				135,
+				95
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "crystal lake",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				267,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "swing",
+			"indices": [],
+			"name": "swing "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jasonpreswing",
+	"position": [
+		-440,
+		-20
+	],
+	"healthicon": "jason",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		83,
+		71
+	],
+	"camera_position": [
+		-150,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

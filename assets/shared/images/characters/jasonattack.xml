@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jasonAttack.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swung instance 10000" x="16" y="16" width="1084" height="754" frameX="-33" frameY="-71" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10001" x="1116" y="16" width="920" height="758" frameX="-32" frameY="-67" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10002" x="2052" y="16" width="920" height="758" frameX="-32" frameY="-67" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10003" x="2988" y="16" width="920" height="756" frameX="-32" frameY="-69" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10004" x="16" y="790" width="920" height="756" frameX="-32" frameY="-69" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10005" x="16" y="790" width="920" height="756" frameX="-32" frameY="-69" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10006" x="952" y="790" width="920" height="754" frameX="-32" frameY="-71" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10007" x="952" y="790" width="920" height="754" frameX="-32" frameY="-71" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10008" x="1888" y="790" width="920" height="754" frameX="-32" frameY="-71" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10009" x="2824" y="790" width="920" height="754" frameX="-32" frameY="-71" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10010" x="16" y="1562" width="920" height="754" frameX="-32" frameY="-71" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10011" x="952" y="1562" width="920" height="754" frameX="-32" frameY="-71" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10012" x="1888" y="1562" width="925" height="743" frameX="-27" frameY="-82" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10013" x="1888" y="1562" width="925" height="743" frameX="-27" frameY="-82" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10014" x="2829" y="1562" width="946" height="816" frameX="-6" frameY="-9" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10015" x="2829" y="1562" width="946" height="816" frameX="-6" frameY="-9" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10016" x="16" y="2394" width="952" height="825" frameX="0" frameY="0" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10017" x="16" y="2394" width="952" height="825" frameX="0" frameY="0" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10018" x="984" y="2394" width="952" height="825" frameX="0" frameY="0" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10019" x="984" y="2394" width="952" height="825" frameX="0" frameY="0" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10020" x="1952" y="2394" width="952" height="825" frameX="0" frameY="0" frameWidth="1117" frameHeight="825"/>
+	<SubTexture name="swung instance 10021" x="2920" y="2394" width="952" height="825" frameX="0" frameY="0" frameWidth="1117" frameHeight="825"/>
+</TextureAtlas>

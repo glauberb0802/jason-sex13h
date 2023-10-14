@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jasonPull.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pulling out instance 10000" x="16" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10001" x="16" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10002" x="1007" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10003" x="1998" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10004" x="2989" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10005" x="3980" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10006" x="4971" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10007" x="5962" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10008" x="6953" y="16" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10009" x="16" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10010" x="1007" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10011" x="1998" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10012" x="2989" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10013" x="3980" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10014" x="4971" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10015" x="5962" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10016" x="6953" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10017" x="6953" y="903" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10018" x="16" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10019" x="16" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10020" x="1007" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10021" x="1007" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10022" x="1998" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10023" x="2989" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10024" x="3980" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10025" x="3980" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10026" x="4971" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10027" x="4971" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10028" x="5962" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10029" x="6953" y="1790" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10030" x="16" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10031" x="1007" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10032" x="1998" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10033" x="2989" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10034" x="3980" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10035" x="4971" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10036" x="5962" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10037" x="6953" y="2677" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10038" x="16" y="3564" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10039" x="1007" y="3564" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10040" x="1998" y="3564" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10041" x="2989" y="3564" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10042" x="3980" y="3564" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10043" x="3980" y="3564" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10044" x="4971" y="3564" width="975" height="871"/>
+	<SubTexture name="pulling out instance 10045" x="4971" y="3564" width="975" height="871"/>
+</TextureAtlas>

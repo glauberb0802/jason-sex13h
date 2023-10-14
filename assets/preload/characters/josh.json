@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				36
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "V pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "back",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-36
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "forward",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				91,
+				0
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "gunpre osh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				20
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "gun josh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				8
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "josh dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				36
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rock missback",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-42
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "rock missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-24
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "rock missforward",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				42
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "rock missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "scared"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-2
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "therockreturns",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-40
+			],
+			"anim": "deathloop",
+			"fps": 24,
+			"name": "the rock",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstdeath",
+			"loop": false,
+			"name": "josh dies"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/josh",
+	"position": [
+		-20,
+		360
+	],
+	"healthicon": "josh",
+	"flip_x": true,
+	"healthbar_colors": [
+		241,
+		130,
+		7
+	],
+	"camera_position": [
+		-35,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

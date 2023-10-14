@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agentgf.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="agentgfdance instance 10000" x="16" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10001" x="16" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10002" x="354" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10003" x="354" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10004" x="692" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10005" x="692" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10006" x="1030" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10007" x="1030" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10008" x="1368" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10009" x="1368" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10010" x="1706" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10011" x="1706" y="16" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10012" x="16" y="642" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10013" x="16" y="642" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10014" x="354" y="642" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10015" x="354" y="642" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10016" x="692" y="642" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10017" x="692" y="642" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10018" x="1030" y="642" width="322" height="610"/>
+	<SubTexture name="agentgfdance instance 10019" x="1030" y="642" width="322" height="610"/>
+</TextureAtlas>

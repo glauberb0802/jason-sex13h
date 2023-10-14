@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ghost",
+			"indices": [],
+			"name": "NHA ghost"
+		},
+		{
+			"offsets": [
+				154,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "NHA static"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ghost",
+	"position": [
+		-150,
+		0
+	],
+	"healthicon": "ghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

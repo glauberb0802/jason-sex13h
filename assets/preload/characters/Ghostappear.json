@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				114,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "NHA appear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ghostappear",
+	"position": [
+		-280,
+		-60
+	],
+	"healthicon": "ghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-220,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

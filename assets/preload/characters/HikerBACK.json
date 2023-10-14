@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-56
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downscream",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				-62
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idleback",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftscream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upscream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-49
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightscream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-43
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-65
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-62
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss down pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hikerback",
+	"position": [
+		-600,
+		370
+	],
+	"healthicon": "hiker",
+	"flip_x": true,
+	"healthbar_colors": [
+		144,
+		101,
+		125
+	],
+	"camera_position": [
+		-170,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

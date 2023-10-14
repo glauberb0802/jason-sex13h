@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hikerdead.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death instance 10000" x="16" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10001" x="666" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10002" x="1316" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10003" x="1966" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10004" x="2616" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10005" x="3266" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10006" x="3916" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10007" x="4566" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10008" x="5216" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10009" x="5866" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10010" x="6516" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10011" x="7166" y="16" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10012" x="16" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10013" x="666" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10014" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10015" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10016" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10017" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10018" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10019" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10020" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10021" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10022" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10023" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10024" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10025" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10026" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10027" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10028" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10029" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10030" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10031" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10032" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10033" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10034" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10035" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10036" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10037" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10038" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10039" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10040" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10041" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10042" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10043" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10044" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10045" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10046" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10047" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10048" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10049" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10050" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10051" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10052" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10053" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10054" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10055" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10056" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10057" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10058" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10059" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10060" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10061" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10062" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10063" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10064" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10065" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10066" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10067" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10068" x="1316" y="886" width="634" height="854" frameX="-51" frameY="0" frameWidth="685" frameHeight="854"/>
+	<SubTexture name="death instance 10069" x="1966" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10070" x="1966" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10071" x="2667" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10072" x="2667" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10073" x="2667" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10074" x="3368" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10075" x="3368" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10076" x="3368" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10077" x="4069" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10078" x="4069" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10079" x="4069" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10080" x="4770" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10081" x="4770" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10082" x="4770" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10083" x="5471" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10084" x="5471" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10085" x="5471" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10086" x="6172" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10087" x="6172" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10088" x="6172" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10089" x="6873" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10090" x="6873" y="886" width="685" height="854"/>
+	<SubTexture name="death instance 10091" x="6873" y="886" width="685" height="854"/>
+	<SubTexture name="deathloop confirm instance 10000" x="16" y="1756" width="724" height="855" frameX="-5" frameY="-14" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10001" x="756" y="1756" width="729" height="869"/>
+	<SubTexture name="deathloop confirm instance 10002" x="756" y="1756" width="729" height="869"/>
+	<SubTexture name="deathloop confirm instance 10003" x="1501" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10004" x="2241" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10005" x="2981" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10006" x="3721" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10007" x="4461" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10008" x="5201" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10009" x="5941" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10010" x="6681" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10011" x="7421" y="1756" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10012" x="16" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10013" x="756" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10014" x="1496" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10015" x="2236" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10016" x="2976" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10017" x="3716" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10018" x="4456" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10019" x="5196" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10020" x="5936" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10021" x="6676" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10022" x="7416" y="2641" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10023" x="16" y="3510" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10024" x="756" y="3510" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop confirm instance 10025" x="1496" y="3510" width="724" height="853" frameX="-5" frameY="-16" frameWidth="729" frameHeight="869"/>
+	<SubTexture name="deathloop instance 10000" x="2236" y="3510" width="685" height="853"/>
+	<SubTexture name="deathloop instance 10001" x="2236" y="3510" width="685" height="853"/>
+	<SubTexture name="deathloop instance 10002" x="2937" y="3510" width="685" height="853"/>
+	<SubTexture name="deathloop instance 10003" x="2937" y="3510" width="685" height="853"/>
+	<SubTexture name="deathloop instance 10004" x="2236" y="3510" width="685" height="853"/>
+</TextureAtlas>

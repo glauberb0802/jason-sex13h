@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghostappear.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NHA appear0000" x="0" y="0" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0001" x="1200" y="0" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0002" x="2400" y="0" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0003" x="3600" y="0" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0004" x="4800" y="0" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0005" x="6000" y="0" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0006" x="0" y="1200" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0007" x="1200" y="1200" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0008" x="2400" y="1200" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0009" x="3600" y="1200" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0010" x="4800" y="1200" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0011" x="6000" y="1200" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0012" x="0" y="2400" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0013" x="1200" y="2400" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0014" x="2400" y="2400" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0015" x="3600" y="2400" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0016" x="4800" y="2400" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0017" x="6000" y="2400" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0018" x="0" y="3600" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0019" x="1200" y="3600" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0020" x="2400" y="3600" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0021" x="3600" y="3600" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0022" x="4800" y="3600" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0023" x="6000" y="3600" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0024" x="0" y="4800" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0025" x="1200" y="4800" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0026" x="2400" y="4800" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0027" x="3600" y="4800" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0028" x="4800" y="4800" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0029" x="6000" y="4800" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0030" x="0" y="6000" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0031" x="1200" y="6000" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0032" x="2400" y="6000" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0033" x="3600" y="6000" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0034" x="4800" y="6000" width="1200" height="1200"/>
+	<SubTexture name="NHA appear0035" x="6000" y="6000" width="1200" height="1200"/>
+</TextureAtlas>

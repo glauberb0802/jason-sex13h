@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				50
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "hiker see Jason",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hiker see Jason",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hikerturn",
+	"position": [
+		-680,
+		380
+	],
+	"healthicon": "hiker",
+	"flip_x": true,
+	"healthbar_colors": [
+		144,
+		101,
+		105
+	],
+	"camera_position": [
+		-50,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

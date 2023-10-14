@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				580,
+				370
+			],
+			"loop": true,
+			"anim": "idle-alt",
+			"fps": 15,
+			"name": "gf alt idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				580,
+				370
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "gf idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfmadcom",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

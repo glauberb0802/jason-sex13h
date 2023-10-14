@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hikerKilled.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hikerKilled0000" x="20" y="20" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0001" x="1902" y="20" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0002" x="3784" y="20" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0003" x="5666" y="20" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0004" x="20" y="1156" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0005" x="1902" y="1156" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0006" x="3784" y="1156" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0007" x="5666" y="1156" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0008" x="20" y="2292" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0009" x="1902" y="2292" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0010" x="3784" y="2292" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0011" x="5666" y="2292" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0012" x="5666" y="2292" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0013" x="20" y="3428" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0014" x="20" y="3428" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0015" x="1902" y="3428" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0016" x="1902" y="3428" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0017" x="3784" y="3428" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0018" x="5666" y="3428" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0019" x="20" y="4564" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0020" x="1902" y="4564" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0021" x="3784" y="4564" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0022" x="5666" y="4564" width="1862" height="1116"/>
+	<SubTexture name="hikerKilled0023" x="5666" y="4564" width="1862" height="1116"/>
+</TextureAtlas>

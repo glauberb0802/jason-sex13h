@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NHAJason_BlizzardKILL.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="final kill slash0000" x="25" y="25" width="1115" height="1011" frameX="-25" frameY="-106" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0001" x="25" y="25" width="1115" height="1011" frameX="-25" frameY="-106" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0002" x="25" y="25" width="1115" height="1011" frameX="-25" frameY="-106" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0003" x="1145" y="25" width="1123" height="1009" frameX="-17" frameY="-107" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0004" x="1145" y="25" width="1123" height="1009" frameX="-17" frameY="-107" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0005" x="2273" y="25" width="1137" height="1008" frameX="0" frameY="-109" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0006" x="2273" y="25" width="1137" height="1008" frameX="0" frameY="-109" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0007" x="3415" y="25" width="1137" height="995" frameX="-2" frameY="-122" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0008" x="3415" y="25" width="1137" height="995" frameX="-2" frameY="-122" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0009" x="4557" y="25" width="1137" height="965" frameX="-6" frameY="-152" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0010" x="4557" y="25" width="1137" height="965" frameX="-6" frameY="-152" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0011" x="5699" y="25" width="1146" height="967" frameX="-11" frameY="-150" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0012" x="5699" y="25" width="1146" height="967" frameX="-11" frameY="-150" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0013" x="6850" y="25" width="1176" height="1017" frameX="-17" frameY="-100" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0014" x="25" y="1047" width="1038" height="1083" frameX="-284" frameY="-4" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0015" x="25" y="1047" width="1038" height="1083" frameX="-284" frameY="-4" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0016" x="1068" y="1047" width="1027" height="1087" frameX="-288" frameY="0" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0017" x="1068" y="1047" width="1027" height="1087" frameX="-288" frameY="0" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0018" x="2100" y="1047" width="1029" height="1087" frameX="-284" frameY="0" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0019" x="2100" y="1047" width="1029" height="1087" frameX="-284" frameY="0" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0020" x="3134" y="1047" width="1033" height="1084" frameX="-281" frameY="-3" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0021" x="3134" y="1047" width="1033" height="1084" frameX="-281" frameY="-3" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0022" x="3134" y="1047" width="1033" height="1084" frameX="-281" frameY="-3" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0023" x="4172" y="1047" width="1034" height="1083" frameX="-279" frameY="-4" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0024" x="4172" y="1047" width="1034" height="1083" frameX="-279" frameY="-4" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0025" x="5211" y="1047" width="1018" height="1085" frameX="-275" frameY="-2" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0026" x="6234" y="1047" width="1046" height="1036" frameX="-221" frameY="-51" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0027" x="7285" y="1047" width="831" height="1118" frameX="-286" frameY="-100" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0028" x="25" y="2170" width="786" height="816" frameX="-355" frameY="-404" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0029" x="816" y="2170" width="769" height="805" frameX="-372" frameY="-404" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0030" x="1590" y="2170" width="765" height="793" frameX="-371" frameY="-410" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0031" x="1590" y="2170" width="765" height="793" frameX="-371" frameY="-410" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0032" x="2360" y="2170" width="759" height="798" frameX="-370" frameY="-408" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0033" x="2360" y="2170" width="759" height="798" frameX="-370" frameY="-408" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0034" x="3124" y="2170" width="760" height="800" frameX="-370" frameY="-406" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0035" x="3124" y="2170" width="760" height="800" frameX="-370" frameY="-406" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0036" x="3124" y="2170" width="760" height="800" frameX="-370" frameY="-406" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0037" x="3124" y="2170" width="760" height="800" frameX="-370" frameY="-406" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0038" x="3124" y="2170" width="760" height="800" frameX="-370" frameY="-406" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0039" x="3124" y="2170" width="760" height="800" frameX="-370" frameY="-406" frameWidth="1322" frameHeight="1220"/>
+	<SubTexture name="final kill slash0040" x="3124" y="2170" width="760" height="800" frameX="-370" frameY="-406" frameWidth="1322" frameHeight="1220"/>
+</TextureAtlas>

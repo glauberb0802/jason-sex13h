@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				481
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftpose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				408
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				284
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightpose",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jasonph1machete",
+	"position": [
+		-455,
+		163
+	],
+	"healthicon": "jason",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		83,
+		71
+	],
+	"camera_position": [
+		0,
+		-210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

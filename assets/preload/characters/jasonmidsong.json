@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "machetepull",
+			"fps": 24,
+			"name": "pulling out",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jasonpull",
+	"position": [
+		-470,
+		126
+	],
+	"healthicon": "jason",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		83,
+		71
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
