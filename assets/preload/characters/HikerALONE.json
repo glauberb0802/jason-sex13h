@@ -101,12 +101,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/hikeralone",
+	"image": "characters/HikerALONE",
 	"position": [
 		-600,
 		400
 	],
-	"healthicon": "hiker",
+	"healthicon": "Hiker",
 	"flip_x": true,
 	"healthbar_colors": [
 		144,
