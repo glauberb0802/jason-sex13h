@@ -48,11 +48,8 @@
 	<!-- PSYCH ENGINE CUSTOMIZATION -->
 	<define name="MODS_ALLOWED" if="desktop || mobile" />
 	<define name="LUA_ALLOWED" if="desktop || mobile" />
-	<!-- <define name="ACHIEVEMENTS_ALLOWED" /> -->
 	<define name="VIDEOS_ALLOWED" if="web || windows || android" unless="32bits"/>
-	<!-- <define name="PSYCH_WATERMARKS"/> -->
-	<!-- <define name="TITLE_SCREEN_EASTER_EGG" if="officialBuild"/> -->
-	<!- <define name="CRASH_HANDLER" if="desktop release || mobile release" /> ->
+	<define name="CRASH_HANDLER" if="desktop release || mobile release" />
 
 	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
 	<assets path="assets/preload" rename="assets" exclude="*.mp3"  unless="web"/>
