@@ -82,10 +82,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
 			['Android Port'],
-			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@idklool121', 'FFFFFF'],
-			[''],
-			['Cara q fez o port lol'],
-            ['Guislakkkk',    'gui',                'a',                    'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ',     'FE0015'],
+            ['soulbf10',    'soulbf',                'I ported this',                    'https://youtube.com/@SoulBF10?si=t8PK38WkM697zh_4',     '151B54'],
             [''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
